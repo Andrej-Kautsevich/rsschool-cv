@@ -15,7 +15,6 @@ My name is Andrey Kavtsevich. I am currently working as a geodesist. My goal is 
 <html>
   <body>
     <p id="hello"></p>
-
     <script>
       document.getElementById("hello").innerHTML = "Hello, world!";
     </script>
