@@ -1,4 +1,4 @@
-# ANDREJ KAUTSEVICH
+# Andrej Kautsevich
 Contact information:
 * Phone: +375 29 102-64-88
 * E-mail: andrej.kautsevich@yandex.by
