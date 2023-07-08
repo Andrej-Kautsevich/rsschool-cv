@@ -16,6 +16,17 @@ body {
     font-family: Roboto;
 }
 
+.main,
+.header,
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h1 {
+    font: bold Montserrat;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -25,8 +36,11 @@ body {
     margin: 0 auto;
 }
 
-.nav {
+.nav, .header-menu {
     width: 100%;
+}
+
+.nav {
     background-color: bisque;
     box-shadow: 5px 5px 10px gray;
 }
@@ -48,4 +62,22 @@ body {
 
 .nav-link:hover {
     color:black;
+}
+
+.header-menu {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header-photo {
+    width: 30%;
+    margin-top: 10px;
+}
+
+.header-name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 40px;
+    width: 70%;
 }
