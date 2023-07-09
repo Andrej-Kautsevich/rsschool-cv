@@ -1,1 +1,2 @@
-https://github.com/Andrej-Kautsevich/rsschool-cv
+https://Andrej-Kautsevich.github.io/rsschool-cv/cv
+https://Andrej-Kautsevich.github.io/rsschool-cv/
