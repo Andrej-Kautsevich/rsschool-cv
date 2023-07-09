@@ -13,16 +13,23 @@ html {
 }
 
 body {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
-
+/*
 .main,
 .header,
-.footer {
-  display: flex;
-  flex-wrap: wrap;
+.footer,
+.left-side {
+    display: flex;
+    flex-wrap: wrap;
 }
-
+*/
 h1 {
     font: bold Montserrat;
 }
@@ -32,11 +39,15 @@ h1 {
 }
 
 .container {
-    max-width: 1440px;
+    max-width: 960px;
     margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
-.nav, .header-menu {
+.nav,
+.header-menu {
     width: 100%;
 }
 
@@ -57,11 +68,11 @@ h1 {
     line-height: 30px;
     transition: .3s;
     text-decoration: none;
-    color:blueviolet;
+    color: blueviolet;
 }
 
 .nav-link:hover {
-    color:black;
+    color: black;
 }
 
 .header-menu {
@@ -72,6 +83,7 @@ h1 {
 .header-photo {
     width: 30%;
     margin-top: 10px;
+    text-align: center;
 }
 
 .header-name {
@@ -79,5 +91,37 @@ h1 {
     flex-direction: column;
     justify-content: center;
     padding-left: 40px;
+    width: 70%;
+}
+
+.left-side {
+    background-color: bisque;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.left-side-list {
+    padding: 10px;
+    list-style: none;
+}
+
+
+.left-side-section {
+    margin: 0 0 20px 0;
+}
+
+.left-side h2 {
+    text-align: center;
+    background-color: lightslategray;
+    border-radius: 5px;
+    padding: 5px;
+    width: 50%;
+    transform: translate(50%, 0);
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+
+.section {
+    padding: 20px;
     width: 70%;
 }
