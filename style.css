@@ -100,6 +100,11 @@ h1 {
     border-radius: 10px;
 }
 
+.right-side {
+    padding: 20px;
+    width: 70%;
+}
+
 .left-side-list {
     padding: 10px;
     list-style: none;
@@ -121,7 +126,3 @@ h1 {
     font-size: 20px;
 }
 
-.section {
-    padding: 20px;
-    width: 70%;
-}
