@@ -30,6 +30,10 @@ h1 {
     font-family: Montserrat, sans-serif;
 }
 
+.link {
+    text-decoration: none;
+}
+
 .container,
 .footer {
     max-width: 1024px;
