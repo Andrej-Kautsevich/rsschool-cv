@@ -8,6 +8,9 @@ Contact information:
 My name is Andrey Kavtsevich. I am currently working as a geodesist. My goal is to gain new knowledge in the field of front-end development.
 # Skills
 * Git, GitHub
+* HTML, CSS
+* JavaScript
+* Figma
 * AutoLISP
 # Code Example
 ```
@@ -21,7 +24,15 @@ My name is Andrey Kavtsevich. I am currently working as a geodesist. My goal is 
   </body>
 </html>
 ```
+# Courses
+* RSSchool Stage0 [Certificate](https://app.rs.school/certificate/ef69yalu) 
 # Languages
+* Belirussian (native)
 * Russian (native)
+* Czech (B1)
 * English (A2)
 # Projects
+1. [Library landing page](https://andrej-kautsevich.github.io/RS-SCHOOL-projects/library/)
+2. [Image gallery using Unsplash API](https://andrej-kautsevich.github.io/RS-SCHOOL-projects/image-galery/)
+3. [Audio player](https://andrej-kautsevich.github.io/RS-SCHOOL-projects/js-audio-player)
+4. [Turmoil like game](https://andrej-kautsevich.github.io/RS-SCHOOL-projects/random-game)
