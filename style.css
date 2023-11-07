@@ -135,6 +135,11 @@ main pre {
     border-bottom: 2px solid dimgray;
 }
 
+.projects {
+    display: flex;
+    flex-direction: column;
+}
+
 .footer {
     justify-content: space-evenly;
     background-color: #0899dd;
