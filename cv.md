@@ -5,7 +5,7 @@ Contact information:
 * Telegram: @andrej_mol
 * Discord: Andrej (@Andrej-Kautsevich)
 # About me
-My name is Andrey Kavtsevich. I am currently working as a geodesist. My goal is to gain new knowledge in the field of front-end development.
+My name is Andrej Kautsevich. I am currently working as a geodesist. My goal is to gain new knowledge in the field of front-end development.
 # Skills
 * Git, GitHub
 * HTML, CSS
@@ -27,7 +27,7 @@ My name is Andrey Kavtsevich. I am currently working as a geodesist. My goal is 
 # Courses
 * RSSchool Stage0 [Certificate](https://app.rs.school/certificate/ef69yalu) 
 # Languages
-* Belirussian (native)
+* Belorussian (native)
 * Russian (native)
 * Czech (B1)
 * English (A2)
